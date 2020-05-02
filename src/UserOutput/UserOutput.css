@@ -1,0 +1,8 @@
+.paragraph {
+    border: 1px solid #cccc;
+    box-shadow: gray;
+    margin-top: 10px;
+    padding: 5px;
+    width: auto;
+    background-color: #ffffff;
+}
